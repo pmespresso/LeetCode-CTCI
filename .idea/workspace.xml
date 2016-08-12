@@ -22,11 +22,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="IsUnique.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/IsUnique.java">
+      <file leaf-file-name="RotateMatrix.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/RotateMatrix.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.8118557">
-              <caret line="42" column="5" selection-start-line="42" selection-start-column="5" selection-end-line="42" selection-end-column="5" />
+            <state vertical-scroll-proportion="0.14819588">
+              <caret line="5" column="74" selection-start-line="5" selection-start-column="74" selection-end-line="5" selection-end-column="74" />
               <folding />
             </state>
           </provider>
@@ -49,6 +49,8 @@
         <option value="$PROJECT_DIR$/OneAway.java" />
         <option value="$PROJECT_DIR$/CheckPermutation.java" />
         <option value="$PROJECT_DIR$/IsUnique.java" />
+        <option value="$PROJECT_DIR$/StringCompression.java" />
+        <option value="$PROJECT_DIR$/RotateMatrix.java" />
       </list>
     </option>
   </component>
@@ -436,8 +438,8 @@
         <state vertical-scroll-proportion="0.28350514">
           <caret line="30" column="0" selection-start-line="30" selection-start-column="0" selection-end-line="30" selection-end-column="0" />
           <folding>
-            <element signature="e#1681#1682#0" expanded="true" />
-            <element signature="e#1708#1709#0" expanded="true" />
+            <element signature="e#1681#1682#0" expanded="false" />
+            <element signature="e#1708#1709#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -460,8 +462,24 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/IsUnique.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.8118557">
-          <caret line="42" column="5" selection-start-line="42" selection-start-column="5" selection-end-line="42" selection-end-column="5" />
+        <state vertical-scroll-proportion="0.88917524">
+          <caret line="46" column="18" selection-start-line="46" selection-start-column="18" selection-end-line="46" selection-end-column="18" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/StringCompression.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.36726806">
+          <caret line="19" column="13" selection-start-line="19" selection-start-column="13" selection-end-line="19" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/RotateMatrix.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.14819588">
+          <caret line="5" column="74" selection-start-line="5" selection-start-column="74" selection-end-line="5" selection-end-column="74" />
           <folding />
         </state>
       </provider>
